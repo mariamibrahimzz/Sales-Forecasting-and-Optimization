@@ -25,7 +25,8 @@ This is a comprehensive end-to-end data science and machine learning project foc
 ├── README.md
 ```
 ## 🚀 Workflow Summary
-1. Data Preprocessing & Cleaning
+
+### 1. Data Preprocessing & Cleaning
 Loaded raw retail purchase data
 
 Applied pandas and NumPy for wrangling
@@ -40,7 +41,8 @@ One-Hot Encoding
 
 Removed or added features based on impact on model performance
 
-2. Feature Engineering & EDA
+### 2. Feature Engineering & EDA
+
 Statistical analysis & correlation evaluation
 
 Created derived variables for enhanced modeling
@@ -51,7 +53,8 @@ seaborn, matplotlib
 
 Boxplots, pairplots, heatmaps, bar charts
 
-3. Dashboarding
+### 3. Dashboarding
+
 Interactive Dash & Plotly dashboard (Jupyter-based)
 
 Power BI dashboard for business insights:
@@ -64,7 +67,8 @@ Product category profitability
 
 Out-of-stock alerts
 
-4. Modeling & Evaluation
+### 4. Modeling & Evaluation
+
 Built and compared multiple models:
 
 XGBoost (Best performer)
@@ -75,7 +79,7 @@ LSTM (Deep learning model for sequence prediction)
 
 Tracked experiments and performance metrics using MLflow
 
-5. Deployment
+### 5. Deployment
 Deployed the best model (XGBoost) using Streamlit
 
 Hosted a local web app to demonstrate:
@@ -131,7 +135,9 @@ Mariam Ibrahim
 Electronics & Communication Engineering Student | Data Science Enthusiast | Aspiring Embedded + AI Engineer
 
 📌 GitHub: [https://github.com/mariamibrahimzz/]
+
 📌 LinkedIn: [https://www.linkedin.com/in/mariamibrahimmzz/]
+
 📌 Email: mariam2309039@miuegypt.edu.eg
 
 ⭐ If you find this project insightful, feel free to give it a star and share feedback!
