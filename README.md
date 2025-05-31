@@ -127,7 +127,9 @@ Insightful storytelling through dashboards
 
 ## 🧠 Author
 Mariam Ibrahim
+
 Electronics & Communication Engineering Student | Data Science Enthusiast | Aspiring Embedded + AI Engineer
+
 📌 GitHub: [https://github.com/mariamibrahimzz/]
 📌 LinkedIn: [https://www.linkedin.com/in/mariamibrahimmzz/]
 📌 Email: mariam2309039@miuegypt.edu.eg
